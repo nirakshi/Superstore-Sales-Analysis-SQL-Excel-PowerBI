@@ -68,14 +68,6 @@ Dashboard Features:
 
 ---
 
-## 📸 Dashboard Preview
-
-> Add your dashboard screenshot here.
-
-![Dashboard](Images/Dashboard.png)
-
----
-
 ## 📑 Business Insights
 
 - West region generated the highest sales.
@@ -94,7 +86,6 @@ SQL/
 Excel/
 PowerBI/
 Report/
-Images/
 ```
 
 ---
