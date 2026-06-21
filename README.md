@@ -78,18 +78,6 @@ Dashboard Features:
 
 ---
 
-## 📁 Repository Structure
-
-```text
-Dataset/
-SQL/
-Excel/
-PowerBI/
-Report/
-```
-
----
-
 ## 🚀 Skills Demonstrated
 
 - SQL Joins
@@ -101,12 +89,4 @@ Report/
 - Business Intelligence
 - Data Visualization
 
----
 
-## 👩‍💻 Author
-
-**Nirakshi**
-
-BCA (AI & ML)
-
-Haridwar University
